@@ -1,2 +1,2 @@
-# rotherham-story
+# Rotherham Story
 Assets for Rotherham Branding
