@@ -1,0 +1,24 @@
+/* custom translucent background */
+
+.bg-40 {
+  background-color: rgba(0, 0, 0, 0.4);
+}
+/* custom background styles for main search */
+
+.bg-search {}
+@media screen and (min-width: 30em) and (max-width: 60em) {
+  .bg-search {
+    background-image: url(https://jnkly.github.io/rmbc-dev-v2/images/minster-gardens-banner.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+}
+@media screen and (min-width: 60em) {
+  .bg-search {
+    background-image: url(https://jnkly.github.io/rmbc-dev-v2/images/minster-gardens-banner.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+}
